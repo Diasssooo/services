@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: my-first-microservice
-  description: Мой первый сервис в Backstage
+  name: microservice
+  description: Сервис в Backstage
 spec:
   type: service
   lifecycle: experimental
